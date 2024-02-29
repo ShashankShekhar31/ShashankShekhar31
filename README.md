@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Tech. and Coding**
 
-- 📫 How to reach me **Shashank.Shekhar3031@gmail.com**
+- 📫 How to reach me [**Mail**](mailto:Shashank.Shekhar3031@gmail.com)
 
 - 📄 Know about my experiences [Resume](Resume)
 
