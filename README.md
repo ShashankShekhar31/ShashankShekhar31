@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shashank;Software+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1>
 -->
-<h3 align="center">A Software Developer Engineer</h3> 
+<h3 align="center">Software Developer Engineer</h3> 
 
 <!-- <p align="center">
   <a href="https://github.com/ShashankShekhar31">
@@ -30,11 +30,11 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Z2ijKGcP4VfUsAIrdoOTPGZIsYYzOoMj/view?usp=sharing)
 
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
-
-<hr/>
 -->
+<hr/>
+
 <h2 align="center">Connect with me:</h2>
-<p align="center">
+<!-- <p align="center"> -->
 <div align="center">
   <a href="mailto:shashank.shekhar0331@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -45,12 +45,16 @@
   <a href="https://twitter.com/@shashank_1209" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://codeforces.com/profile/shashank.shekhar0331" target="_blank">
+  <a href="https://portfolio-shashank-shekhar.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <!--<a href="https://codeforces.com/profile/shashank.shekhar0331" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.leetcode.com/shashank012" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
   </a>
+  -->
 </div>
 </p>
 
