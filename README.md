@@ -1,19 +1,18 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://ShashankShekhar31.io)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shashankshekhar31&label=Profile%20views&color=0e75b6&style=flat" alt="shashankshekhar31" /> </p>
-
+<!-- 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shashank;Software+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1>
+-->
+<h3 align="center">A Software Developer Engineer</h3> 
 
-<h3 align="center">A Software Developer Engineer</h3>
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ShashankShekhar31">
     <img src="https://github-trophies.vercel.app/?username=shashankshekhar31&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Issues,PullRequest,Stars" alt="GitHub Trophies" />
   </a>
 </p>
-
 <hr/>
 
 - 🔭 I'm currently working on [Imagify](https://github.com/ShashankShekhar31/Imagify)
@@ -33,7 +32,7 @@
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
 
 <hr/>
-
+-->
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <div align="center">
@@ -65,7 +64,7 @@
 </p>
 
 <hr/>
-
+<!-- 
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -73,7 +72,7 @@
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
    
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9) -->
- ![GitHub Streak](https://github-readme-streak-stats-2-five.vercel.app/?user=shashankshekhar31&theme=tokyonight&border_radius=9)
+ <!-- ![GitHub Streak](https://github-readme-streak-stats-2-five.vercel.app/?user=shashankshekhar31&theme=tokyonight&border_radius=9)
 <br/>
 <br/>
 ![Shashank's GitHub stats](https://github-readme-statistics-xi.vercel.app/api/top-langs/?username=shashankshekhar31&layout=donut&theme=tokyonight)
@@ -83,3 +82,4 @@
 
 <hr/>
 <div align="center">
+-->
