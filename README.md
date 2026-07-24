@@ -48,31 +48,24 @@
   <a href="https://portfolio-shashank-shekhar.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <!--<a href="https://codeforces.com/profile/shashank.shekhar0331" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.leetcode.com/shashank012" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
-  </a>
-  -->
 </div>
 </p>
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,tailwind,nodejs,express,mongodb,postgres,prisma,docker,git" />
+  <img src="https://skillicons.dev/icons?i=next,react,tailwind,nodejs,express,mongodb,postgres,aws,prisma,docker,git" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,java,c,cpp,py,firebase,mysql,angular,redux,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=ts,java,c,cpp,py,firebase,mysql" />
 </p>
 
-<hr/>
+ <!-- <hr/>  -->
 <!-- 
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align=center>
+<!-- <div align=center> -->
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
    
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9) -->
