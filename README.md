@@ -45,7 +45,7 @@
   <a href="https://twitter.com/@shashank_1209" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-shashank-shekhar.vercel.app/" target="_blank">
+  <a href="https://shashank-shekhar.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
